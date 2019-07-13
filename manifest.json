@@ -1,0 +1,31 @@
+	
+name	"Iqlab Seo"
+short_name	"Iqlab Seo blog apk"
+start_url	"https://iqlabseo.blogspot.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#C51162"
+description	"Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube."
+icons	
+0	
+src	"https://1.bp.blogspot.com/-7YaRSvTYLlI/XSlBZu9K3TI/AAAAAAAAAGk/mSZW17xqFscUjSnmMz9ZTxmxPYRAfXilwCLcBGAs/s1600/android-icon-48x48.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-WchJc_z39-0/XSlBavT24SI/AAAAAAAAAGo/UVin1mnFzb0ZVnH1sgmZFdQhwUlHPAa3gCLcBGAs/s1600/android-icon-72x72.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-_RsmbMYefzU/XSlBbOy69uI/AAAAAAAAAGs/XxgjzNiPSDcqcBe-29c-BXpep_m61PWDgCLcBGAs/s1600/android-icon-96x96.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-cwvzBd4S1jo/XSlBZpz77gI/AAAAAAAAAGg/aicxsef7st4PHn-0H-ss_ZHz2b0e2MTaQCLcBGAs/s1600/android-icon-144x144.png"
+sizes	"144x144"
+type	"image/png"
+4	
+
+src	"https://1.bp.blogspot.com/-i0ToKyD8KjY/XSlBZipLWlI/AAAAAAAAAGc/nYcaa-ca5oQcANyceyzWQjMeILhEt6ulACLcBGAs/s1600/android-icon-192x192.png"
+sizes	"192x192"
+type	"image/png"
+5	
